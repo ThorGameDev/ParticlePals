@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3eaf1990f5d0841808b3a3c25d936833, type: 3}
+  m_Name: Anti Down Quark
+  m_EditorClassIdentifier: 
+  Image: {fileID: 21300000, guid: 4ac72e61c2c78407b91f879a5cf9a55b, type: 3}
+  catagory: 1
+  secondCatagory: 4
+  ID: 0
+  TableID: 4
+  Antimatter: 1
+  description: This the second smallest anti quark right behind anti up. As an anti
+    quark, this particle interacts with the strong force, weak force, and the electromagnetic
+    force. It also interacts with gravity.
+  minHP: 28
+  minAttack: 5
+  minSPAttack: 20
+  minDefence: 10
+  minSPDefence: 10
+  minSpeed: 19
+  maxHP: 280
+  maxAttack: 50
+  maxSPAttack: 200
+  maxDefence: 100
+  maxSPDefence: 100
+  maxSpeed: 190
+  attacks:
+  - {fileID: 11400000, guid: 614ab08408ed842c9b712eac3da117be, type: 2}
+  - {fileID: 11400000, guid: 9a63c026fe6f74d9687dc7575f0936a8, type: 2}
+  - {fileID: 11400000, guid: a12b3269edfce42e59f07c6181af6d92, type: 2}
+  - {fileID: 11400000, guid: fc87b93138e6d4d30b93cb1113b8c0e7, type: 2}
+  - {fileID: 11400000, guid: 78b91410cb2ab45d6bf5d17ecbe07fd1, type: 2}
+  - {fileID: 11400000, guid: 2e3152969e3054726bbee9dc8c042a5e, type: 2}
+  - {fileID: 11400000, guid: da6589c3aa75f42cf865e524bcc25ac7, type: 2}
+  - {fileID: 11400000, guid: 2678a0528c8f94340b4086b390557d2c, type: 2}
+  - {fileID: 11400000, guid: 7a02d91e29f7248c9964f8dcdbd3baa0, type: 2}
+  - {fileID: 11400000, guid: 72e8daa7e7b3140fba655cdb374320e3, type: 2}
+  - {fileID: 11400000, guid: affb6ec9cb8f440538ec0b092cc64b22, type: 2}

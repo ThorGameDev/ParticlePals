@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3eaf1990f5d0841808b3a3c25d936833, type: 3}
+  m_Name: Photon
+  m_EditorClassIdentifier: 
+  Image: {fileID: 21300000, guid: 5738e30adefbb4c51923c32cc3b80f44, type: 3}
+  catagory: 3
+  secondCatagory: 0
+  ID: 0
+  TableID: 13
+  Antimatter: 0
+  description: This particle is most known for it's speed. When in a vacume, it travels
+    299,792,458 m/s. Nothing in the universe can travel faster, not even cause and
+    efect. This boson is responcible for the electromagnetic force.
+  minHP: 19
+  minAttack: 20
+  minSPAttack: 20
+  minDefence: 8
+  minSPDefence: 8
+  minSpeed: 299792458
+  maxHP: 190
+  maxAttack: 200
+  maxSPAttack: 200
+  maxDefence: 80
+  maxSPDefence: 80
+  maxSpeed: 299792458
+  attacks:
+  - {fileID: 11400000, guid: 9d248b502efab4bcc96591692079680f, type: 2}
+  - {fileID: 11400000, guid: 7c5826eacd13c47df8736b8993f3fd09, type: 2}
+  - {fileID: 11400000, guid: 9f42237c4112244fd9cadb6db2dc664b, type: 2}
+  - {fileID: 11400000, guid: a2f847dca7c6d446a8c839b5f6561330, type: 2}
+  - {fileID: 11400000, guid: f26c3989089e34857b0ac88e887baf20, type: 2}
+  - {fileID: 11400000, guid: a12b3269edfce42e59f07c6181af6d92, type: 2}
+  - {fileID: 11400000, guid: 3db2246af0aab4472a2703814c5f33a5, type: 2}
+  - {fileID: 11400000, guid: dbc31b2b755d34db198441b52cd0dcc6, type: 2}
+  - {fileID: 11400000, guid: 5f0b251ac959941578888f6209cd83ef, type: 2}
+  defaultAttacks: []

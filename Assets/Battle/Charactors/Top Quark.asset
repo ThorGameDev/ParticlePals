@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3eaf1990f5d0841808b3a3c25d936833, type: 3}
+  m_Name: Top Quark
+  m_EditorClassIdentifier: 
+  Image: {fileID: 21300000, guid: 6d30eef6790cf43b9abfd8b328061d97, type: 3}
+  catagory: 1
+  secondCatagory: 4
+  ID: 0
+  TableID: 3
+  Antimatter: 0
+  description: 'This is the most massive quark of them all. It was originally going
+    to be called the truth quark, but that name was never widely adopted. It actually
+    decays to fast to form hadrons. '
+  minHP: 40
+  minAttack: 40
+  minSPAttack: 1
+  minDefence: 200
+  minSPDefence: 1
+  minSpeed: 18
+  maxHP: 400
+  maxAttack: 400
+  maxSPAttack: 1
+  maxDefence: 2000
+  maxSPDefence: 1
+  maxSpeed: 180
+  attacks:
+  - {fileID: 11400000, guid: affb6ec9cb8f440538ec0b092cc64b22, type: 2}
+  - {fileID: 11400000, guid: 72e8daa7e7b3140fba655cdb374320e3, type: 2}
+  - {fileID: 11400000, guid: 1c7a992fab8b44fee9af7b5d2af7c989, type: 2}
+  - {fileID: 11400000, guid: 614ab08408ed842c9b712eac3da117be, type: 2}
+  - {fileID: 11400000, guid: 9a63c026fe6f74d9687dc7575f0936a8, type: 2}
+  - {fileID: 11400000, guid: a12b3269edfce42e59f07c6181af6d92, type: 2}
+  - {fileID: 11400000, guid: fc87b93138e6d4d30b93cb1113b8c0e7, type: 2}
+  - {fileID: 11400000, guid: 78b91410cb2ab45d6bf5d17ecbe07fd1, type: 2}
+  - {fileID: 11400000, guid: 2e3152969e3054726bbee9dc8c042a5e, type: 2}
+  - {fileID: 11400000, guid: 1680e560779694f8183e5c80cd8dc7f3, type: 2}
+  - {fileID: 11400000, guid: 8b340a05b3a9946bea70022e7bb429b3, type: 2}
+  - {fileID: 11400000, guid: 00c36b574f30c414485a6675b4389407, type: 2}
+  defaultAttacks: []

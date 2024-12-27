@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3eaf1990f5d0841808b3a3c25d936833, type: 3}
+  m_Name: Gluon
+  m_EditorClassIdentifier: 
+  Image: {fileID: 21300000, guid: fdebd87f59f9e4e67ba23752324c49ab, type: 3}
+  catagory: 3
+  secondCatagory: 0
+  ID: 0
+  TableID: 14
+  Antimatter: 0
+  description: This particle is responcible for the strong nuclear force. It forces
+    quarks together baced on a proporty known as color. The proporty color dosent
+    actually refer to light, but instead is an analogy. Red green and blue are all
+    found in quarks, while antired antigreen and antiblue are found in antiquarks.
+    If a combonation of quarks does not result in color neutrality, a new quark will
+    be created from the energy of the first quark.
+  minHP: 120
+  minAttack: 3
+  minSPAttack: 10
+  minDefence: 9
+  minSPDefence: 9
+  minSpeed: 38
+  maxHP: 1200
+  maxAttack: 30
+  maxSPAttack: 100
+  maxDefence: 90
+  maxSPDefence: 90
+  maxSpeed: 380
+  attacks:
+  - {fileID: 11400000, guid: 9d248b502efab4bcc96591692079680f, type: 2}
+  - {fileID: 11400000, guid: 7c5826eacd13c47df8736b8993f3fd09, type: 2}
+  - {fileID: 11400000, guid: a2f847dca7c6d446a8c839b5f6561330, type: 2}
+  - {fileID: 11400000, guid: a12b3269edfce42e59f07c6181af6d92, type: 2}
+  - {fileID: 11400000, guid: f26c3989089e34857b0ac88e887baf20, type: 2}
+  - {fileID: 11400000, guid: adf858e42e439449d818266dc41d505a, type: 2}
+  - {fileID: 11400000, guid: 7a02d91e29f7248c9964f8dcdbd3baa0, type: 2}
+  - {fileID: 11400000, guid: 2678a0528c8f94340b4086b390557d2c, type: 2}
+  - {fileID: 11400000, guid: da6589c3aa75f42cf865e524bcc25ac7, type: 2}
+  - {fileID: 11400000, guid: 1680e560779694f8183e5c80cd8dc7f3, type: 2}
+  - {fileID: 11400000, guid: 8b340a05b3a9946bea70022e7bb429b3, type: 2}
+  - {fileID: 11400000, guid: 00c36b574f30c414485a6675b4389407, type: 2}
+  defaultAttacks: []

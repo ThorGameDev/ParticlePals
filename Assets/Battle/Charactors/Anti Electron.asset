@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3eaf1990f5d0841808b3a3c25d936833, type: 3}
+  m_Name: Anti Electron
+  m_EditorClassIdentifier: 
+  Image: {fileID: 21300000, guid: 928b7cc313ac64743b0eef12a0ccbf7f, type: 3}
+  catagory: 2
+  secondCatagory: 4
+  ID: 0
+  TableID: 7
+  Antimatter: 1
+  description: This is the antimatter version of an electron. It is practically identical
+    the standard electon, but has an oposite charge. It will repel a proton instead
+    of orbit around it like usual.
+  minHP: 30
+  minAttack: 10
+  minSPAttack: 20
+  minDefence: 10
+  minSPDefence: 10
+  minSpeed: 20
+  maxHP: 300
+  maxAttack: 100
+  maxSPAttack: 200
+  maxDefence: 100
+  maxSPDefence: 100
+  maxSpeed: 200
+  attacks:
+  - {fileID: 11400000, guid: affb6ec9cb8f440538ec0b092cc64b22, type: 2}
+  - {fileID: 11400000, guid: 72e8daa7e7b3140fba655cdb374320e3, type: 2}
+  - {fileID: 11400000, guid: cfa66bcb2efd0403d999f76acd87ad17, type: 2}
+  - {fileID: 11400000, guid: 00efa413b4df340d09eec757f14cac34, type: 2}
+  - {fileID: 11400000, guid: a2f847dca7c6d446a8c839b5f6561330, type: 2}
+  - {fileID: 11400000, guid: a12b3269edfce42e59f07c6181af6d92, type: 2}
+  - {fileID: 11400000, guid: fc87b93138e6d4d30b93cb1113b8c0e7, type: 2}
+  - {fileID: 11400000, guid: 78b91410cb2ab45d6bf5d17ecbe07fd1, type: 2}
+  - {fileID: 11400000, guid: f0d3f7a25b37c4082a154b79b956a80b, type: 2}
+  - {fileID: 11400000, guid: 0764d9208c2c54e469cbd1c3b5086205, type: 2}
+  - {fileID: 11400000, guid: 2e3152969e3054726bbee9dc8c042a5e, type: 2}

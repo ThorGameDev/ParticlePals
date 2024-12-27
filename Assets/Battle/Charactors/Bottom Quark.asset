@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3eaf1990f5d0841808b3a3c25d936833, type: 3}
+  m_Name: Bottom Quark
+  m_EditorClassIdentifier: 
+  Image: {fileID: 21300000, guid: 2e96b7fe295d045328c10848f658024b, type: 3}
+  catagory: 1
+  secondCatagory: 5
+  ID: 0
+  TableID: 6
+  Antimatter: 0
+  description: This quark was originally going to be called beauty as opposed to
+    bottom. It is a lot like the down quark or the strange quark, yet it is a lot
+    more massive. It also decays quickly into charm or up quarks.
+  minHP: 40
+  minAttack: 1
+  minSPAttack: 40
+  minDefence: 1
+  minSPDefence: 200
+  minSpeed: 18
+  maxHP: 400
+  maxAttack: 1
+  maxSPAttack: 400
+  maxDefence: 1
+  maxSPDefence: 200
+  maxSpeed: 180
+  attacks:
+  - {fileID: 11400000, guid: daa06e3887d26413f9bed84317855751, type: 2}
+  - {fileID: 11400000, guid: 9a04c8bcc1fae4177b879dde787e40c2, type: 2}
+  - {fileID: 11400000, guid: 67c7aa3aaeee847459a95b417717ff37, type: 2}
+  - {fileID: 11400000, guid: 614ab08408ed842c9b712eac3da117be, type: 2}
+  - {fileID: 11400000, guid: 9a63c026fe6f74d9687dc7575f0936a8, type: 2}
+  - {fileID: 11400000, guid: a12b3269edfce42e59f07c6181af6d92, type: 2}
+  - {fileID: 11400000, guid: fc87b93138e6d4d30b93cb1113b8c0e7, type: 2}
+  - {fileID: 11400000, guid: 78b91410cb2ab45d6bf5d17ecbe07fd1, type: 2}
+  - {fileID: 11400000, guid: 2e3152969e3054726bbee9dc8c042a5e, type: 2}
+  - {fileID: 11400000, guid: 1680e560779694f8183e5c80cd8dc7f3, type: 2}
+  - {fileID: 11400000, guid: 8b340a05b3a9946bea70022e7bb429b3, type: 2}
+  - {fileID: 11400000, guid: 00c36b574f30c414485a6675b4389407, type: 2}
+  defaultAttacks: []

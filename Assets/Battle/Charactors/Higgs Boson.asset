@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3eaf1990f5d0841808b3a3c25d936833, type: 3}
+  m_Name: Higgs Boson
+  m_EditorClassIdentifier: 
+  Image: {fileID: 21300000, guid: 66b180e89e0a6493b857542776535f0e, type: 3}
+  catagory: 3
+  secondCatagory: 0
+  ID: 0
+  TableID: 17
+  Antimatter: 0
+  description: Once known as the "God Particle", this boson gives other particles
+    some mass. It has long been speculated before its descovery at the LHC in 2012.
+    This particle absorbs energy from the W and Z boson resulting in their short
+    range.
+  minHP: 70
+  minAttack: 20
+  minSPAttack: 20
+  minDefence: 17
+  minSPDefence: 17
+  minSpeed: 30
+  maxHP: 700
+  maxAttack: 200
+  maxSPAttack: 200
+  maxDefence: 170
+  maxSPDefence: 170
+  maxSpeed: 300
+  attacks:
+  - {fileID: 11400000, guid: 9d248b502efab4bcc96591692079680f, type: 2}
+  - {fileID: 11400000, guid: 7c5826eacd13c47df8736b8993f3fd09, type: 2}
+  - {fileID: 11400000, guid: a2f847dca7c6d446a8c839b5f6561330, type: 2}
+  - {fileID: 11400000, guid: a12b3269edfce42e59f07c6181af6d92, type: 2}
+  - {fileID: 11400000, guid: c851edda1aa7b486b81c91cd03d33382, type: 2}
+  - {fileID: 11400000, guid: 735fbf6f17aa548a2aa76ba4256a39e9, type: 2}

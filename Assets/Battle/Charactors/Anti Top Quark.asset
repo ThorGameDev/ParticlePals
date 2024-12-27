@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3eaf1990f5d0841808b3a3c25d936833, type: 3}
+  m_Name: Anti Top Quark
+  m_EditorClassIdentifier: 
+  Image: {fileID: 21300000, guid: 6191f8cf3c3d94d5d90ecfb803b84f81, type: 3}
+  catagory: 1
+  secondCatagory: 5
+  ID: 0
+  TableID: 3
+  Antimatter: 1
+  description: 'This is the most massive anti quark of them all. It was originally
+    going to be called the anti truth quark, but that name was never widely adopted.
+    It actually decays to fast to form hadrons. '
+  minHP: 40
+  minAttack: 40
+  minSPAttack: 1
+  minDefence: 200
+  minSPDefence: 1
+  minSpeed: 18
+  maxHP: 400
+  maxAttack: 400
+  maxSPAttack: 1
+  maxDefence: 2000
+  maxSPDefence: 1
+  maxSpeed: 180
+  attacks:
+  - {fileID: 11400000, guid: daa06e3887d26413f9bed84317855751, type: 2}
+  - {fileID: 11400000, guid: 9a04c8bcc1fae4177b879dde787e40c2, type: 2}
+  - {fileID: 11400000, guid: 67c7aa3aaeee847459a95b417717ff37, type: 2}
+  - {fileID: 11400000, guid: 614ab08408ed842c9b712eac3da117be, type: 2}
+  - {fileID: 11400000, guid: 9a63c026fe6f74d9687dc7575f0936a8, type: 2}
+  - {fileID: 11400000, guid: a12b3269edfce42e59f07c6181af6d92, type: 2}
+  - {fileID: 11400000, guid: fc87b93138e6d4d30b93cb1113b8c0e7, type: 2}
+  - {fileID: 11400000, guid: 78b91410cb2ab45d6bf5d17ecbe07fd1, type: 2}
+  - {fileID: 11400000, guid: 2e3152969e3054726bbee9dc8c042a5e, type: 2}
+  - {fileID: 11400000, guid: da6589c3aa75f42cf865e524bcc25ac7, type: 2}
+  - {fileID: 11400000, guid: 2678a0528c8f94340b4086b390557d2c, type: 2}
+  - {fileID: 11400000, guid: 7a02d91e29f7248c9964f8dcdbd3baa0, type: 2}

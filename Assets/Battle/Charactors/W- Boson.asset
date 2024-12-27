@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3eaf1990f5d0841808b3a3c25d936833, type: 3}
+  m_Name: W- Boson
+  m_EditorClassIdentifier: 
+  Image: {fileID: 21300000, guid: c372383e8dc3d4c71a113ff34e4419a8, type: 3}
+  catagory: 3
+  secondCatagory: 5
+  ID: 0
+  TableID: 16
+  Antimatter: 0
+  description: This particle along with the Z Boson is responcible for the weak nuclear
+    force. This particle is responncible for quark flavour change. It can decay into
+    almost any fermion.
+  minHP: 60
+  minAttack: 11
+  minSPAttack: 14
+  minDefence: 9
+  minSPDefence: 10
+  minSpeed: 37
+  maxHP: 600
+  maxAttack: 110
+  maxSPAttack: 140
+  maxDefence: 90
+  maxSPDefence: 100
+  maxSpeed: 370
+  attacks:
+  - {fileID: 11400000, guid: 9d248b502efab4bcc96591692079680f, type: 2}
+  - {fileID: 11400000, guid: 7c5826eacd13c47df8736b8993f3fd09, type: 2}
+  - {fileID: 11400000, guid: a2f847dca7c6d446a8c839b5f6561330, type: 2}
+  - {fileID: 11400000, guid: a12b3269edfce42e59f07c6181af6d92, type: 2}
+  - {fileID: 11400000, guid: f26c3989089e34857b0ac88e887baf20, type: 2}
+  - {fileID: 11400000, guid: a26b84febd1ce42e1bb0797fd0e13ff3, type: 2}
+  - {fileID: 11400000, guid: 7440f3659a36c48e6a8e8a419a5d5abd, type: 2}
+  - {fileID: 11400000, guid: 67c7aa3aaeee847459a95b417717ff37, type: 2}
+  - {fileID: 11400000, guid: daa06e3887d26413f9bed84317855751, type: 2}
+  - {fileID: 11400000, guid: 9a04c8bcc1fae4177b879dde787e40c2, type: 2}
